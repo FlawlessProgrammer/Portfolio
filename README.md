@@ -1,0 +1,1 @@
+This project showcases my skills as a Frontend Developer. Explore my work on on the html file found on my project file. My project demonstrates my ability to Design responsive webpages. Feel free to reach out for collaborations or inquiries.
